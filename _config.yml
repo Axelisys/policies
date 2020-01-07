@@ -1,8 +1,1 @@
 theme: jekyll-theme-cayman
-markdown: kramdown
-lsi: false
-baseurl: ""
-url: "https://axelisys.github.io"
-incremental: false
-gist:
-  noscript: false
