@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 lsi: false
 baseurl: ""
-url: "http://axelisys.github.io"
+url: "https://axelisys.github.io"
 incremental: false
 gist:
   noscript: false
