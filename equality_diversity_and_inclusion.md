@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Equality, Diversity and Inclusion Policy"
-permalink: /equality_diversity_and_inclusion/
+permalink: /policies/equality_diversity_and_inclusion/
 ---
 # Equal Opportunities, Diversity & Inclusion Policy
 
