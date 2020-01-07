@@ -33,4 +33,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Want help with Policy? [contact support](https://www.axelisys.co.ukj/contact) and we’ll help you sort it out.
+Want help with Policy? [contact support](https://www.axelisys.co.uk/contact) and we’ll help you sort it out.
