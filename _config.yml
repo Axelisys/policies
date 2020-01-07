@@ -8,5 +8,5 @@ gist:
   noscript: false
 defaults:
   - scope:
-      path: "/policies"
+      path: ""
 
