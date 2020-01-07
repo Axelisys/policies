@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Equality, Diversity and Inclusion Policy"
 permalink: /policies/equality _diversity_and_inclusion/
-
+---
 # Equal Opportunities, Diversity & Inclusion Policy
 
 # 1. # How to use this policy
