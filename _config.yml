@@ -8,6 +8,6 @@ gist:
   noscript: false
 defaults:
   - scope:
-      path: ""
+      path: "/policies"
     values:
       layout: default
