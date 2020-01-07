@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Open Policy
 
-You can use the [editor on GitHub](https://github.com/Axelisys/policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site provides open source policy suitable for an IT firm in the UK. The aim of the OpenPolicy initiative, is to create community drive, high quality, inclusive policies for forms that employ best practise, community contribution and innovation, to create organisational policy suitable for hte 21st century. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contents
+
+### License
+GNU General Public License 3.0
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The pages use Markdown for edits. You can copy Word documentsinto a markdown editor, or use online editors to develop Markdown pages. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +31,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Axelisys/policies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want help with Policy? [contact support](https://www.axelisys.co.ukj/contact) and we’ll help you sort it out.
