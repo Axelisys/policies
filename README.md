@@ -1,6 +1,6 @@
 ## Welcome to Open Policy
 
-This site provides open source policy suitable for an IT firm in the UK. The aim of the OpenPolicy initiative, is to create community drive, high quality, inclusive policies for forms that employ best practise, community contribution and innovation, to create organisational policy suitable for hte 21st century. 
+This site provides open source policy suitable for an IT firm in the UK. The aim of the OpenPolicy initiative, is to create community driven, high-quality, inclusive policies employing best practise, community contribution and innovation, to create organisational policy suitable for hte 21st century. 
 
 ## Contents
 
