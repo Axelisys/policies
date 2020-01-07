@@ -6,7 +6,3 @@ url: "https://axelisys.github.io"
 incremental: false
 gist:
   noscript: false
-defaults:
-  - scope:
-      path: ""
-
