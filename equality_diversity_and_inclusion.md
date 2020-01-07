@@ -5,7 +5,7 @@ permalink: /policies/equality_diversity_and_inclusion/
 ---
 # Equal Opportunities, Diversity & Inclusion Policy
 
-# 1. # How to use this policy
+# 1. How to use this policy
 Axelisys encourages its documentation to be stored in the public domain so that it can inspire openness and contribution to its policy and procedures. We aspire to continue to work with everyone we come into contact with in a fair and unbiased way.
 
 Our documentation aspires to be a living document that changes with the input of those we come into contact with.
