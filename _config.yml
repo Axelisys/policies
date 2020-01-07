@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 lsi: false
 safe: true
+basePath: "/policies"
 source: /
 incremental: false
 highlighter: rouge
