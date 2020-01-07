@@ -9,5 +9,4 @@ gist:
 defaults:
   - scope:
       path: "/policies"
-    values:
-      layout: default
+
