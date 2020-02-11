@@ -1,4 +1,9 @@
-title: OpenPolicy  
+title: OpenPolicy
+description: > 
+url: "https://axelisys.github.io"
 baseurl: "/policies"
-theme: jekyll-theme-cayman
+
 twitter_username: axelisys
+
+markdown: kramdown
+theme: jekyll-theme-cayman
