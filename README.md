@@ -5,7 +5,7 @@ title: "Welcome to Open Policy"
 
 ## Welcome to Open Policy
 
-This site provides open source policy suitable for an IT firm in the UK. The aim of the OpenPolicy initiative, is to create community driven, high-quality, inclusive policies employing best practise, community contribution and innovation, to create organisational policy suitable for hte 21st century. 
+This site provides open source policy suitable for an IT firm in the UK. The aim of the OpenPolicy initiative, is to create community driven, high-quality, inclusive policies employing best practise, community contribution and innovation, to create organisational policy suitable for the 21st century. 
 
 ## Contents
 
