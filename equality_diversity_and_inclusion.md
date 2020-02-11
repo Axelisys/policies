@@ -10,8 +10,8 @@ Axelisys encourages its documentation to be stored in the public domain so that 
 
 Our documentation aspires to be a living document that changes with the input of those we come into contact with.
 
-| Bold items centred in the page are for example only, and are not legally binding |
-|--|
+| **Bold items centred in the page are for example only, and are not legally binding** |
+|---|
 
 ## 1.1. Who is this Policy For
 
@@ -35,8 +35,8 @@ The Company refers to  Axelisys Limited (“the Company”) Guiding principles a
 
 **Diversity** shall mean diversity of characteristic (see section 6.1), background, experience and thought. The Company shall take steps to ensure a diverse range of experience is brought to their products or services, in accordance with their target user base. This does not exclude diverse users, or constraining test cohorts towards the target users.
 
-| Example: A mobile app targeting male users with mental health conditions, can include a diverse range of users with and without conditions, OR the performance of existing clinical practise to form the control group, but may include only those users with mental health conditions for the group under test. Especially to align with healthcare clinical research practise. |
-|--|
+| **Example: A mobile app targeting male users with mental health conditions, can include a diverse range of users with and without conditions, OR the performance of existing clinical practise to form the control group, but may include only those users with mental health conditions for the group under test. Especially to align with healthcare clinical research practise.** |
+|---|
 
 
 ## 2. Policy Statement
@@ -73,8 +73,9 @@ This is the application of a policy, criterion or practice which the employer ap
     
 -   The person to whom the employer is applying it suffers detriment from the application of the policy.
     
-| Example: A requirement that all employees must be 6ft tall if that requirement is not justified by the position would indirectly discriminate against employees with an oriental ethnic origin, as they are less likely to be able to fulfil this requirement. |
-|--|
+| **Example: A requirement that all employees must be 6ft tall if that requirement is not justified by the position would indirectly discriminate against employees with an oriental ethnic origin, as they are less likely to be able to fulfil this requirement.** |
+|---|
+
 
 4.3.  **Harassment**
 This occurs when a person is subjected to unwanted conduct that has the purpose or effect of violating their dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment.
@@ -87,8 +88,8 @@ This occurs when a person is treated less favourably because they have bought or
 5.1.  **Sex**
 It is not permissible to treat a person less favourably on the grounds of sex, marital status, civil partnership, pregnancy or maternity, gender reassignment or transgender status. This applies to men, women and those undergoing or intending to undergo gender reassignment. Sexual harassment of men and women can be found to constitute sex discrimination.
 
-| Example: Asking a woman during an interview if she is planning to have any (more) children constitutes discrimination on the ground of gender. |
-|--|
+| **Example: Asking a woman during an interview if she is planning to have any (more) children constitutes discrimination on the ground of gender.** |
+|---|
 
 5.2.  **Age**
 It is not permissible to treat a person less favourably because of their age. This applies to people of all ages. This does not currently apply to the calculation of redundancy payments.
@@ -126,7 +127,7 @@ It is not permissible to treat a person less favourably because of their gender 
 Nothing in the above list shall entitle any individual or group with one or more protected characteristics to discriminate against another individual or group with other protected characteristics.
 
 | **Example: A person who follows a particular religious faith, may not discriminate against someone who identifies as having a different gender to their biological gender.** |
-|--|
+|---|
 
 ## 6. Positive Action in Recruitment
 Under the Equality Act 2010, positive action in recruitment and promotion applies as of 6 April 2011. ‘Positive action’ means the steps that the Company can take to encourage people from groups with different needs or with a past record of disadvantage or low participation, to apply for positions within the Company.
