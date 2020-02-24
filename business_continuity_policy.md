@@ -7,7 +7,7 @@ permalink: /business_continuity_policy/
 
 ## Introduction
 
-**Axelisys Limited ****("**the Company") is committed to providing the best possible experience to its customers and the best possible relationships with employees, shareholders and suppliers. To ensure the consistent availability and delivery of its products and services, **The Company** has developed the following business continuity and disaster recovery (BCP/DR) policy in support of a comprehensive program for BC, DR and overall business survivability.
+**Axelisys Limited** ("the Company") is committed to providing the best possible experience to its customers and the best possible relationships with employees, shareholders and suppliers. To ensure the consistent availability and delivery of its products and services, The Company has developed the following business continuity and disaster recovery (BCP/DR) policy in support of a comprehensive program for BC, DR and overall business survivability.
 
 The Company, like any other, is exposed to potential risks that could disrupt or destroy critical business functions and/or the production and delivery of Company goods and services. Our strategy for continuing business in the event of an incident is to ensure the safety and security of all employees; and to continue critical business functions, production and delivery of products and services from predefined alternative sites. Where digital services are employed, this includes multivendor strategies for Cloud services.
 
@@ -23,7 +23,7 @@ Each department in the Company is responsible for preparing current and comprehe
 
 When a plan is completed, approved and implemented, each plan will include procedures and support agreements ensuring on-time availability and delivery of products and services.  Each plan is certified annually for compliance with the BCP/DR policy.
 
-**The Company** recognizes the importance of an active and fully supported BCP/DR program to ensure the safety, health and continued availability of employment of its employees and the production and delivery of quality goods and services for customers and other stakeholders.  The Company requires the commitment of each employee, department and vendor in support of the activities required to protect Company assets, mission and survivability.
+The Company recognizes the importance of an active and fully supported BCP/DR program to ensure the safety, health and continued availability of employment of its employees and the production and delivery of quality goods and services for customers and other stakeholders.  The Company requires the commitment of each employee, department and vendor in support of the activities required to protect Company assets, mission and survivability.
 
 ## Policy Leadership
 
