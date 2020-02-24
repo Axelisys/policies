@@ -36,4 +36,5 @@ The Managing Director of the Company accepts overall responsibility for all Heal
 
 Where approproate, the Managing Director will appoint competent persons to assist them with the implementation of health and safety policies and arrangements.
 
-Approved by the board.
+## Authorisation & Declaration
+This policy has been approved by the board.
