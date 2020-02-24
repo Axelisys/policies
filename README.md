@@ -10,6 +10,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 ## Contents
 
 1. [Equality Diversity and Inclusion](equality_diversity_and_inclusion.md)
+2. [Health and Safety Policy Statement](health_and_safety_policy_statement.md)
 
 ### License
 GNU General Public License 3.0
