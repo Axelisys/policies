@@ -4,7 +4,7 @@ title: "Modern Slavery Policy"
 permalink: /modern_slavery_policy/
 ---
 
-# Modern Slavery Act II Policy Statement
+# Modern Slavery Act Policy Statement
 
 ## Introduction
 
