@@ -44,6 +44,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Contributors
+We do accept Pull Requests, but the project necessarily requires you to file an issue in the [Issues](https://github.com/Axelisys/policies/issues) tab. The associated issues and PR will be discussed with the team every so often (usually every 3 months) so we can combine all the great ideas together. You don't have to write the Markdown to submit an issue. We ccan certainly do that. 
+
 ### Support or Contact
 
 Want help with Policy? [contact support](https://www.axelisys.co.uk/contact) and we’ll help you sort it out.
