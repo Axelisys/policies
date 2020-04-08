@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "OpenPolicy Initiative"
+permalink: /
 ---
 
 ## Welcome to Open Policy
