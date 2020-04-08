@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "OpenPolicy Initiative"
-permalink: /equality_diversity_and_inclusion/
 ---
 
 ## Welcome to Open Policy
