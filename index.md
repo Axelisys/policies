@@ -14,7 +14,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 2. [Health and Safety Policy Statement](health_and_safety_policy_statement.md)
 3. [Business Continuity](business_continuity_policy.md)
 4. [Modern Slavery](business_continuity_policy.md)
-5. [Anti-Bribary Policy](anti-bribary_policy.md)
+5. [Anti-Bribery Policy](anti-bribery_policy.md)
 
 ### License
 GNU General Public License 3.0
