@@ -21,7 +21,7 @@ This policy is for directors, employees, independent contractors and the Company
 
 ## 1.2. Glossary of Terms  
 
-The Company refers to  Axelisys Limited (“the Company”) Guiding principles and Small something about the company and its structure fairly flat structure due to working practices of working with contractors. You can also add a couple of aspirations here. Human rights are a guiding principle for the company, we recognise the fundamental principles of Human Rights, as defined by the United Nations in 1948’s “Universal Declaration of Human Rights” [https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf)
+**The Company** refers to  Axelisys Limited (“the Company”) Guiding principles and Small something about the company and its structure fairly flat structure due to working practices of working with contractors. You can also add a couple of aspirations here. Human rights are a guiding principle for the company, we recognise the fundamental principles of Human Rights, as defined by the United Nations in 1948’s “Universal Declaration of Human Rights” [https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf](https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf)
 
 **Employee** in this document includes permanent company hired employees as well as trainees and employees on trial or probation.
 
