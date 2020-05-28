@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Anti-Bribery Policy"
+permalink: /anti-bribery_policy
+---
+
 # Anti-Bribery Policy
 
 ## 1. Purpose
