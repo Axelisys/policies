@@ -17,7 +17,7 @@ Our documentation aspires to be a living document that changes with the input of
 
 ## 1.1. Who is this Policy For
 
-This policy is for directors, employees, independent contractors and the Company encourages all its suppliers and clients to also adhere to this policy.
+This policy is for directors, employees and independent contractors. In addition, the Company encourages all its suppliers and clients to adhere to this policy.
 
 ## 1.2. Glossary of Terms  
 
@@ -140,7 +140,7 @@ Nothing in the above list shall entitle any individual or group with one or more
 ## 6. Positive Action in Recruitment
 Under the Equality Act 2010, positive action in recruitment and promotion applies as of 6 April 2011. ‘Positive action’ means the steps that the Company can take to encourage people from groups with different needs or with a past record of disadvantage or low participation, to apply for positions within the Company.
 
-If the Company chooses to utilise positive action in recruitment, this will not be used to treat people with a protected characteristic more favorably, it will be used only in a total tie-break situations, when there are two candidates of equal merit applying for the same position.
+If the Company chooses to utilise positive action in recruitment, this will not be used to treat people with a protected characteristic more favorably, it will be used only in total tie-break situations, when there are two candidates of equal merit applying for the same position.
 
 ## 7.  Reasonable Adjustments
 The Company has a duty to make reasonable adjustments to facilitate the employment of a disabled person. These may include:
