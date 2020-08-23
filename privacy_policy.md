@@ -29,7 +29,7 @@ In this Policy the following terms shall have the following meanings:
   
   **"User"**                   means any third party that accesses the Website and is not employed by Axelisys Limited and acting in the course of their employment; and
   
-  **"Website"**                means the website that you are currently using (whileyoureout.co.uk) and any sub-domains of this site (e.g. subdomain.whileyoureout.co.uk) unless expressly excluded by their own terms and conditions.
+  **"Website"**                means the website that you are currently using (e.g. exmaple.com) and any sub-domains of this site (e.g. the subdomain 'subdomain.example.com') unless expressly excluded by their own terms and conditions.
 
  
 
