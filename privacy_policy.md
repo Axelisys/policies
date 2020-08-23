@@ -23,7 +23,7 @@ In this Policy the following terms shall have the following meanings:
   
   **"Cookie"**                 means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website.  Details of the cookies used by this Website are set out in Clause 12;
   
-  **"Company"**                means Axelisys Limited of Unit 4, Vista Place, Coy Pond Business Park, Ingworth Road, Poole, Dorset BH12 1JY;
+  **"Company"**                means Axelisys Limited of 3 Piccadilly Place, Manchester, M1 3BN;
   
   **"UK and EU Cookie Law"**   means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;
   
