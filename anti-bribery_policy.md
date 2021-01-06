@@ -41,7 +41,7 @@ permalink: /anti-bribery_policy
 
 ## 5. Facilitation Payments
 
-**Situational** : They occur in situations where a public official demands a bribe for a service to which a person or company is entitled.  They may also be demanded by police or other officials backed by a threat of a fine or other adverse consequence.
+**Situational**: They occur in situations where a public official demands a bribe for a service to which a person or company is entitled.  They may also be demanded by police or other officials backed by a threat of a fine or other adverse consequence.
 
 **Transactional**: Small bribes are commonly demanded in certain transactions or activities, typically in travel, logistics or seeking approval of some kind such as a visa, licence, certificate, utility service or regulatory approval.
 
