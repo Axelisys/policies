@@ -40,6 +40,15 @@ permalink: /anti-bribery_policy
   3. report any and all concerns relating to bribery to the Chief Executive or, in the case of non-employees, their normal point of contact within the Company, or otherwise in accordance with the Company&#39;s Whistleblowing Policy.
 
 ## 5. Facilitation Payments
+
+**Situational**: They occur in situations where a public official demands a bribe for a service to which a person or company is entitled.  They may also be demanded by police or other officials backed by a threat of a fine or other adverse consequence.
+
+**Transactional**: Small bribes are commonly demanded in certain transactions or activities, typically in travel, logistics or seeking approval of some kind such as a visa, licence, certificate, utility service or regulatory approval.
+
+**Private sector risk**: Small bribes can be also demanded by private sector employees especially as a consequence of privatisation.
+
+**Many forms**: Small bribes can take the form of cash, vouchers, pre-paid phone cards, alcohol, perfume, cigarettes, and tickets to events.
+
 1. A facilitation payment is defined as a small payment made to officials in order to ensure or speed up the performance of routine or necessary functions.
 2. Facilitation payments constitute bribes and, subject to section 5.3, may not be made at any time irrespective of prevailing business customs in certain territories.
 3. Facilitation or similar payments may be made in limited circumstances where your life is in danger but under no other circumstances. Any payment so made must be reported to Mr Ethar Alali (Chief Executive) as soon as is reasonably possible and practicable.
