@@ -258,12 +258,12 @@ following Cookies:
 
   | Name of Cookie | First / Third Party | Provider | Purpose |
   |----------------|---------------------|----------|---------|
-  | \_ga | First| Google |     Used to distinguish users.|
-  | utma | First | Google |Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing \_\_utma cookies exists . The cookie is updated every time data is sent to Google Analytics.|
-  | utmb |First|Google| Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing \_\_utmb cookies exists . The cookie is updated every time data is sent to Google Analytics.|
-  | utmc |         First    |             Google     |Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the \_\_utmb cookie to determine whether the user was in a new session/visit.
-  | utmz |        First     |            Google     |Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics
-  | utmv  |       First      |           Google     |Used to store visitor-level custom variable data. The cookie is updated every time data is sent to Google Analytics.
+  | \_ga | First| Google |     Used to distinguish users. |
+  | utma | First | Google |Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing \_\_utma cookies exists . The cookie is updated every time data is sent to Google Analytics. |
+  | utmb |First|Google| Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing \_\_utmb cookies exists . The cookie is updated every time data is sent to Google Analytics. |
+  | utmc |         First    |             Google     | Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the \_\_utmb cookie to determine whether the user was in a new session/visit. |
+  | utmz |        First     |            Google     | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics |
+  | utmv  |       First      |           Google     | Used to store visitor-level custom variable data. The cookie is updated every time data is sent to Google Analytics.  
  
 
 12.10     You can choose to enable or disable Cookies in your internet
