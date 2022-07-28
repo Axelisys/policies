@@ -12,7 +12,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 1. [Equality Diversity and Inclusion](equality_diversity_and_inclusion.md)
 2. [Health and Safety Policy Statement](health_and_safety_policy_statement.md)
 3. [Business Continuity](business_continuity_policy.md)
-4. [Modern Slavery](business_continuity_policy.md)
+4. [Modern Slavery](modern_slavery_policy.md)
 5. [Anti-Bribery Policy](anti-bribery_policy.md)
 6. [PCI-DSS Policy](PCI-DSS_policy.md)
 7. [Privacy Policy](privacy_policy.md)
