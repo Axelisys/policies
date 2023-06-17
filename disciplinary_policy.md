@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Disciplinary Policy"
+permalink: /disciplinary_policy
+---
+
 # Disciplinary procedure 
 ## 1. Introduction
 We will use this procedure to help and encourage all employees to achieve and maintain standards of conduct, attendance and job performance. 
