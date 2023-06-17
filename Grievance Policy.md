@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Grievance Policy"
+permalink: /grievance_policy
+---
+
 # Grievance Policy and Procedure 
 ## 1. Introduction
 The organisation’s Disciplinary procedures are designed to maintain the organisation’s performance. As an economic operator in a regulated sector, especially the environment, the protection of social and environmental responsibility is paramount. 
