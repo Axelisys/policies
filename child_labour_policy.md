@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Health and Safety Policy Statement"
+title: "Child Labour Policy Statement"
 permalink: /child_labour_policy/
 ---
 
