@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Health and Safety Policy Statement"
+permalink: /child_labour_policy/
+---
+
 # **Child labor Policy Statement**
 
 Use this child labor policy as a basis to set up rules for employing minors to help end children's exploitation.
