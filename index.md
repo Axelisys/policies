@@ -19,6 +19,7 @@ This site provides open source policy suitable for an IT firm in the UK. The aim
 7. [Privacy Policy](privacy_policy.md)
 8. [Grievance Policy](grievance_policy.md)
 9. [Disciplinary Policy](disciplinary_policy.md)
+10. [Child Labor Policy](child_labour_policy.md)
 
 
 ### License
